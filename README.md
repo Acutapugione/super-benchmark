@@ -17,7 +17,7 @@ This project, `super-benchmark`, is a test task demonstrating the use of several
 2. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/Acutapugione/super-benchmark.git](https://github.com/Acutapugione/super-benchmark.git)
+   git clone https://github.com/Acutapugione/super-benchmark.git
 
 
 3. **Install dependencies:**
